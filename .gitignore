@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # Customization
-
+*.safetensors
 nohup.out
 */models/
 peft/temp/
